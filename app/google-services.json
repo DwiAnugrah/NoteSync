@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551828640259",
+    "project_id": "notesync-8a325",
+    "storage_bucket": "notesync-8a325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551828640259:android:b1146f823ddcce3a117436",
+        "android_client_info": {
+          "package_name": "com.example.notesync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551828640259-j117q6d6tmd8eb8udce9vr9ltq0gfs8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnG40NwVtAMYE3kF2V0WW5tbQi16v3dLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551828640259-j117q6d6tmd8eb8udce9vr9ltq0gfs8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
