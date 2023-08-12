@@ -1,5 +1,9 @@
 package com.example.notesync;
 
+// 10120073
+// Anugrah Dwi
+// IF2
+
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
