@@ -1,5 +1,9 @@
     package com.example.notesync;
 
+// 10120073
+// Anugrah Dwi
+// IF2
+
     public class ScreenItem {
 
         String Title,Description;
