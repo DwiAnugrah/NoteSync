@@ -1,5 +1,9 @@
 package com.example.notesync;
 
+// 10120073
+// Anugrah Dwi
+// IF2
+
 import com.google.firebase.Timestamp;
 
 public class Note {
